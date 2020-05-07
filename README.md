@@ -1,2 +1,1 @@
-# lthwselenium
-Learn the Hard Way - Selenium
+# Learn the Hard Way - Selenium
